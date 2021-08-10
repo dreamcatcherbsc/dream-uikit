@@ -33,3 +33,4 @@ export { default as ArrowsIcon } from "./Arrows";
 export { default as ArcheryIcon } from "./Archery";
 export { default as NightmareIcon } from "./Nightmare";
 export { default as GhostIcon } from "./Ghost";
+export { default as InfosIcon } from "./Infos";
