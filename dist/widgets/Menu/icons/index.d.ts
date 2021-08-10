@@ -28,3 +28,6 @@ export { default as EggHouseIcon } from "./EggHouse";
 export { default as DreamIcon } from "./Dream";
 export { default as DreamMoneyIcon } from "./DreamMoney";
 export { default as TimeIcon } from "./Time";
+export { default as GunIcon } from "./Gun";
+export { default as ArrowsIcon } from "./Arrows";
+export { default as ArcheryIcon } from "./Archery";
